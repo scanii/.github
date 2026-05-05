@@ -25,7 +25,7 @@ Or use one of the official SDKs.
 | [scanii-php](https://github.com/scanii/scanii-php) | PHP | `composer require scanii/scanii-php` |
 | [scanii-rust](https://github.com/scanii/scanii-rust) | Rust | `cargo add scanii` |
 | [scanii-ruby](https://github.com/scanii/scanii-ruby) | Ruby | `gem install scanii-ruby` |
-| scanii-python | Python | _Coming soon_ |
+| scanii-python | Python | `pip install scanii-python` |
 
 ## Develop and test without consuming credits
 
